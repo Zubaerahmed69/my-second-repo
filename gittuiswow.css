@@ -1,0 +1,13 @@
+div{
+ color: black;
+ background-color: yellow;
+ border: solid yellow;
+ border-radius: 30px;
+
+}
+
+li{
+    border: solid black;
+    width: 100px;;
+}
+
