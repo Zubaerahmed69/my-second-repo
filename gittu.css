@@ -1,0 +1,18 @@
+p{
+
+color: blue;
+background-color: yellow;
+font-weight: 700;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+border: 5px solid black;
+width: fit-content;
+}
+
+.dibba{background-color: black;
+color: white;
+text-align: center;
+border: 5px solid purple;
+margin-left 500px;;
+
+width: fit-content;
+}
